@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab3_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab3_master">
+				<Option output="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Lab3_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_master"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab3_master/fast">
+				<Option output="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Lab3_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_master/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/BinarySearchTree.h">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/MainWindow.cpp">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/MainWindow.h">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/Set.h">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/Test.h">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/TestWindow.cpp">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/TestWindow.h">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/main.cpp">
+			<Option target="Lab3_master"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Артемий/Desktop/lABS/set/Lab3-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
